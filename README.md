@@ -56,6 +56,7 @@ Tic-Tac-Toe is a simple yet engaging game developed in Java, featuring two playe
    ```bash
    git clone https://github.com/alienx5499/Tic-Tac-Toe.git
    cd Tic-Tac-Toe
+   cd Game-File
    ```
 
 2. **Compile the Code**  
