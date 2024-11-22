@@ -99,6 +99,7 @@ Refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more guidelines.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+<div align="center">
 
 ### 📬 **Feedback & Suggestions**
 *We value your input! Share your thoughts through [GitHub Issues](https://github.com/alienx5499/smart-home-manager/issues).*
