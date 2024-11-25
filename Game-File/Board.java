@@ -32,7 +32,7 @@ public class Board {
 
     //! Method to check if a player has won
     public boolean checkWin(char symbol) {
-        // Check rows and columns
+        //! Check rows and columns
         for (int i = 0; i < 3; i++) {
             if ((board[i][0] == symbol && board[i][1] == symbol && board[i][2] == symbol) ||
                 (board[0][i] == symbol && board[1][i] == symbol && board[2][i] == symbol)) {
