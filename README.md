@@ -80,16 +80,20 @@ Tic-Tac-Toe is a simple yet engaging game developed in Java, featuring two playe
 
 We ❤️ open source! Contributions are always welcome to improve this project.  
 
-1. Fork this repository.  
-2. Create a feature branch:  
+1. Fork this repository.
+2. Clone the forked repository to your local machine:  
+   ```bash
+   git clone https://github.com/your-username/Tic-Tac-Toe.git
+   ```
+3. Create a feature branch:  
    ```bash
    git checkout -b feature/your-feature
    ```
-3. Commit your changes:  
+4. Commit your changes:  
    ```bash
    git commit -m "Add your feature"
    ```
-4. Push to the branch and open a Pull Request.
+5. Push to the branch and open a Pull Request.
 
 Refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more guidelines.
 
